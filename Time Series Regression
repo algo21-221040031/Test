@@ -1,0 +1,6 @@
+import pandas as pd
+import numpy as py
+From WindPy import w
+
+# 启动wind
+w.start()
